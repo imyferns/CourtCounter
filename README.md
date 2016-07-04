@@ -1,4 +1,4 @@
-# CourtCounter
+# Court Counter
 A simple Android app called Court Counter - the second project made as part of the Android Basics Nanodegree offered by Udacity. 
 
 ![courtcounter](https://cloud.githubusercontent.com/assets/4187068/16548371/d8d52cc6-4149-11e6-8d1e-82afe4f13bc8.png)
