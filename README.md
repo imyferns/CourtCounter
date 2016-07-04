@@ -11,3 +11,5 @@ Appropriate Java methods are added and linked to the buttons. The scores are dis
 Court Counter keeps track of the scores for two basketball teams, Team A and Team B. Each team's score is tracked separately. The user can add points for a 3 pointer, 2 pointer or a free throw. A Reset button resets both team's scores to 0. 
 
 
+
+
