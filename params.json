@@ -1,0 +1,6 @@
+{
+  "name": "Court Counter",
+  "tagline": "A simple Android app to keep track of basketball scores for two teams.",
+  "body": "# Court Counter\r\nA simple Android app called Court Counter - the second project along side the Android Basics Nanodegree offered by Udacity. \r\n\r\n![courtcounter](https://cloud.githubusercontent.com/assets/4187068/16548371/d8d52cc6-4149-11e6-8d1e-82afe4f13bc8.png)\r\n\r\n\r\n#How Court Counter is built\r\nThe app layout is constructed with a Relative Layout parent. The parent has a child horizontal Linear Layout which in turn has two child vertical Linear Layouts with equal weight to display each team as a column. The Reset Button is positioned at the bottom of the Relative Linear Layout. \r\n\r\nAppropriate Java methods are added and linked to the buttons. The scores are displayed in TextViews. The colours for the buttons and the Heading bar come from the styles.xml resource. \r\n\r\n\r\n#How to use Court Counter\r\nCourt Counter keeps track of the scores for two basketball teams, Team A and Team B. Each team's score is tracked separately. The user can add points for a 3 pointer, 2 pointer or a free throw. A Reset button resets both team's scores to 0. \r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
